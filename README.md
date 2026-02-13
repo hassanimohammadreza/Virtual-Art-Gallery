@@ -24,10 +24,34 @@ Each artwork presented here is inspired by the respective artist's style, recrea
 7. **Bridget Riley**: Renowned for her op art works that create optical illusions using geometric patterns.
 8. **Op-Art**: Optical illusions created through color, form, and repetition.
 
-### Installation Instructions
+### Future Features and Improvements
 
-To run the Virtual Art Gallery locally, follow these steps:
+- This project is continually evolving. Here are some things I plan to implement in the future:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/virtual-art-gallery.git
+- New Artists: Adding more works from other iconic artists, both contemporary and historical.
+
+- Interactive Features: Hover effects, clickable artworks for zoomed-in views, or detailed artist information.
+
+- Animations: Enhancing CSS animations to bring the artworks to life and create an even more engaging experience.
+
+- Mobile Interactivity: Improved touch controls and interactions for mobile devices.
+
+- Accessibility: Ensuring the gallery is accessible for all users, including keyboard navigation and screen readers.
+
+### Technologies Used
+
+- HTML5: Structuring the content of the gallery.
+
+- CSS3: Styling the artwork, layout, and animations.
+
+- CSS Grid: Used for organizing the artwork in a dynamic and responsive layout.
+
+- Flexbox: Used for aligning and spacing elements within the gallery.
+
+- CSS Animations & Transitions: For smooth interactions and visual effects.
+
+### Acknowledgements
+
+- Thanks to the artists who have inspired this project.
+
+- Special thanks to the developers and designers of CSS frameworks, who provide the foundation for web design innovations like this.

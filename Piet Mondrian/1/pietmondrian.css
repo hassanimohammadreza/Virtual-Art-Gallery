@@ -38,33 +38,33 @@ body {
 }
 
 .yellow-small {
+  background:	#fac901;
   grid-column: 2 / 3;
   grid-row: 1 / 3;
-  background: 	#fac901;
 }
 
 .white2 {
+  background: white;
   grid-column: 2 / 3;
   grid-row: 3 / 6;
-  background: white;
 }
 
 .blue-vertical {
+  background: #225095;
   grid-column: 2 / 3;
   grid-row: 6 / 7;
-  background: #225095;
 }
 
 .white3 {
+  background: #f0f0f0;
   grid-column: 3 / 4;
   grid-row: 1 / 4;
-  background: #f0f0f0;
 }
 
 .blue-horizontal {
+  background: #225095;
   grid-column: 3 / 4;
   grid-row: 4 / 5;
-  background: #225095;
 }
 
 .red-small {
@@ -80,7 +80,7 @@ body {
 }
 
 .yellow-large {
+  background: 	#fac901;
   grid-column: 3 / 5;
   grid-row: 5 / 7;
-  background: 	#fac901;
 }

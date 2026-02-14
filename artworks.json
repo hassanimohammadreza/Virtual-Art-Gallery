@@ -1,0 +1,7 @@
+[
+  { "title": "Mondrian 1", "page": "./Piet Mondrian/1/pietmondrian.html", "width": 750, "height": 550 },
+  { "title": "Mondrian 2", "page": "./Piet Mondrian/2/pietmondrian.html", "width": 600, "height": 600 },
+  { "title": "Mondrian 3", "page": "./Piet Mondrian/3/pietmondrian.html", "width": 500, "height": 650 },
+  { "title": "Mondrian 4", "page": "./Piet Mondrian/4/pietmondrian.html", "width": 600, "height": 600 },
+  { "title": "Mondrian 5", "page": "./Piet Mondrian/5/pietmondrian.html", "width": 450, "height": 650 }
+]
